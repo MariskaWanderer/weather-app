@@ -1,0 +1,36 @@
+body {
+  font-family: 'Montserrat', sans-serif;
+}
+
+h1,
+h2,
+h3 {
+  color: #100E3B;
+}
+
+h1 {
+  text-align: center;
+  font-weight: 900;
+  margin: 0;
+  font-size: 36px;
+  line-height: 48px;
+}
+
+.search {
+  margin: 20px 50px;
+  padding-top: 100px;
+}
+
+.cityImg {
+  margin: 0 auto;
+  display: block;
+}
+
+      .leftPage {
+        border-radius: 20px;
+        border: 1px solid;
+        border-color: lightgrey;
+        max-width: 500px;
+        margin: 30px auto;
+        padding: 30px 60px;
+      }
